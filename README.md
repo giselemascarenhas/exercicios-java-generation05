@@ -1,6 +1,4 @@
-## Exercícios de Lógica utilizando a Linguagem Java | 09/08/2021
-
-**Descrição: Implemente as classe com interface quando necessário**
+## Exercícios de Lógica utilizando a Linguagem Java | 09/08/2021 (*Em andamento*)
 
 1. Crie uma hierarquia de classes conforme abaixo com os seguintes atributos e comportamentos (observe a tabela), utilize os seus conhecimentos e distribua as características de forma que tudo o que for comum a todos os animais fique na classe Animal: 
 
@@ -14,7 +12,6 @@
 - Remover dados da list;
 - Atualizar dados da list.
 - Apresentar todos os dados da list.
-
+- 
 #### Instrutores Jeff e Aimée.
-
 #### Generation Brasil
